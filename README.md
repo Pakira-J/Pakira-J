@@ -1,4 +1,4 @@
-# 👋 Hello World! नमस्ते, मेरा नाम *Joydeep Pakira* है |
+# 👋 Hello World! नमस्ते, myself Joydeep Pakira
 ### *Electronics and Communication Engineering Graduate | Embedded Systems & V.L.S.I. Enthusiast | IoT Innovator*
 
 <div align="center">
@@ -17,9 +17,9 @@
 class ECE_Graduate:
     def __init__(self):
         self.name = "Passionate ECE Engineer"
-        self.graduation = "Electronics and Communication Engineering (2023)"
+        self.graduation = "Electronics and Communication Engineering"
         self.current_status = "Seeking Core ECE Opportunities"
-        self.passion = ["Embedded Systems", "IoT", "VLSI Design"]
+        self.passion = ["Embedded Systems", "Automation", "IoT", "VLSI Design"]
         self.mindset = "Innovation through Technology"
         self.dream = "Contributing to cutting-edge ECE industry"
     
@@ -166,7 +166,7 @@ class ECE_Graduate:
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xUA7aM09ByyR1w5YWc/giphy.gif" width="300" alt="Thank You GIF"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjd2cTF6a3drendlbHlveGE0emJrbnVldW9kMjQwM3NqanB0MnFtbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yziuK6WtDFMly/giphy.gif" width="300" alt="Thank You GIF"/>
   
   **✨ "Every expert was once a beginner. Every pro was once an amateur. Every icon was once an unknown." ✨**
   
