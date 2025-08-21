@@ -112,17 +112,24 @@ class ECE_Graduate:
 
 ---
 
-## 📊 GitHub Analytics
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pakira-J&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pakira-J&layout=compact&langs_count=7&theme=radical"/>
+  <h2>📊 Joydeep's GitHub Analytics</h2>
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pakira-J&hide_rank=True&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=contribs)
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pakira-J&layout=compact&theme=one_dark_pro" alt="Top Languages" />
+  
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pakira-J&theme=one_dark_pro" alt="GitHub Streak" />
 </div>
 <div align="center">
   <em><b>My streaks maybe low but my zeal is high! Trust me.</b></em><br>Fun fact: I'm also new to GitHub! 😁
 </div>
 <!--
-<div align="center">
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Pakira-J&theme=default" alt="GitHub Streak" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pakira-J&theme=radical" alt="GitHub Streak"/>
 </div>
 -->
